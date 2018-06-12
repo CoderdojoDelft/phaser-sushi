@@ -1,0 +1,26 @@
+{
+  "name": "phaser-sushi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "./node_modules/.bin/http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderdojoDelft/phaser-sushi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoderdojoDelft/phaser-sushi/issues"
+  },
+  "homepage": "https://github.com/CoderdojoDelft/phaser-sushi#readme",
+  "dependencies": {
+    "phaser": "^3.9.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
